@@ -1,5 +1,8 @@
 # 💫 About Me:
-I am currently the backend and deployment developer for Kira. Utilizes Docker, Laravel, and AWS technology to develop and deploy.<br>Also, wrote scripts (i.e. GitHub Actions / Bash) to automate processes.<br>Currently learning Node.js (Express).<br>The plan is to be a DevOps engineer. Previously explored Jenkins and deployed simple projects using AWS and DigitalOcean.<br>Fun fact, my chess used to rate around 1500 elo at chess.com
+I am currently the backend and deployment developer for Invoke. 
+<br>Currently learning Node.js (Express).
+<br>The plan is to be a DevOps engineer. 
+<br>Fun fact, my chess used to rate around 1500 elo at chess.com
 
 
 ## 🌐 Socials:
