@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # 💫 About Me:
 Backend and deployment developer for Invoke Malaysia. 
 <br>Currently learning Node.js (Express).
