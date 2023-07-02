@@ -1,6 +1,5 @@
 # 💫 About Me:
 Backend and deployment developer for Invoke Malaysia. 
-<br>Currently learning Node.js (Express).
 <br>The plan is to be a DevOps engineer. 
 <br>Fun fact, my chess used to rate around 1500 elo at chess.com
 
