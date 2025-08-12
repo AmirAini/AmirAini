@@ -18,9 +18,9 @@ Currently working on building scalable APIs, integrating third-party services, a
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
 
 ## 🏅 Certifications
-[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/340x340/images/2a4e7f42-857f-4140-9b3a-36a9b1c8e8a9/image.png)](https://www.credly.com/badges/d448062e-b7b6-45f2-a2b5-34288804a743/public_url)  
+[![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/Click%20to%20View-AWS%20Solutions%20Architect%20Associate-FF9900?logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/d448062e-b7b6-45f2-a2b5-34288804a743/public_url)  
+*(Click the badge to view my certification on Credly)*
 
-_*(Click the badge to view on Credly)*_
 
 ## 📊 GitHub
 ![Top Langs](https://github-readme-stats-zeta-six-as36o6uadr.vercel.app/api/top-langs/?username=AmirAini&theme=city_light&hide_border=false&layout=compact&size_weight=0.5&count_weight=0.5)
