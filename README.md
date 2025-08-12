@@ -19,6 +19,7 @@ Currently working on building scalable APIs, integrating third-party services, a
 
 # 📊 GitHub Stats:
 ![Stats](https://github-readme-stats-zeta-six-as36o6uadr.vercel.app/api?username=AmirAini&theme=city_light&hide_border=false&include_all_commits=true&count_private=true)
+
 ![Top Langs](https://github-readme-stats-zeta-six-as36o6uadr.vercel.app/api/top-langs/?username=AmirAini&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
