@@ -19,6 +19,7 @@ Currently working on building scalable APIs, integrating third-party services, a
 
 ## 🏅 Certifications
 [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/340x340/images/2a4e7f42-857f-4140-9b3a-36a9b1c8e8a9/image.png)](https://www.credly.com/badges/d448062e-b7b6-45f2-a2b5-34288804a743/public_url)  
+
 _*(Click the badge to view on Credly)*_
 
 ## 📊 GitHub
