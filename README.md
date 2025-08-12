@@ -18,8 +18,9 @@ Currently working on building scalable APIs, integrating third-party services, a
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirAini&theme=city_light&hide_border=false&include_all_commits=false&count_private=true&layout=compact)  
-![](https://github-readme-stats.vercel.app/api?username=AmirAini&theme=city_light&hide_border=false&include_all_commits=true&count_private=true)
+![Stats](https://github-readme-stats-zeta-six-as36o6uadr.vercel.app/api?username=AmirAini&theme=city_light&hide_border=false&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats-zeta-six-as36o6uadr.vercel.app/api/top-langs/?username=AmirAini&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 # 📊 LeetCode Stats: 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/AmirAini)
