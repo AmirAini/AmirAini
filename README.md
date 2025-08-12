@@ -17,10 +17,14 @@ Currently working on building scalable APIs, integrating third-party services, a
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4.svg?style=for-the-badge&logo=terraform&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
 
-# 📊 GitHub Stats:
-![Stats](https://github-readme-stats-zeta-six-as36o6uadr.vercel.app/api?username=AmirAini&theme=city_light&hide_border=false&include_all_commits=true&count_private=true)
+## 🏅 Certifications
+[![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-FF9900?logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/d448062e-b7b6-45f2-a2b5-34288804a743/public_url)
 
-![Top Langs](https://github-readme-stats-zeta-six-as36o6uadr.vercel.app/api/top-langs/?username=AmirAini&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 📊 GitHub
+![Top Langs](https://github-readme-stats-zeta-six-as36o6uadr.vercel.app/api/top-langs/?username=AmirAini&theme=city_light&hide_border=false&layout=compact&size_weight=0.5&count_weight=0.5)
+
+![Stats](https://github-readme-stats-zeta-six-as36o6uadr.vercel.app/api?username=AmirAini&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
+
 
 
 # 📊 LeetCode Stats: 
