@@ -17,9 +17,10 @@ Currently working on building scalable APIs, integrating third-party services, a
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4.svg?style=for-the-badge&logo=terraform&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
 
+
 ## 🏅 Certifications
-[![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/Click%20to%20View-AWS%20Solutions%20Architect%20Associate-FF9900?logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/d448062e-b7b6-45f2-a2b5-34288804a743/public_url)  
-*(Click the badge to view my certification on Credly)*
+[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/d448062e-b7b6-45f2-a2b5-34288804a743/public_url)  
+*(Click the badge to view on Credly)*
 
 
 ## 📊 GitHub
